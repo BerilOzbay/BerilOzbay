@@ -1,7 +1,8 @@
 
   
 
-### <div align="center">I'm Beril, a computer engineering student 👩‍💻</div>  
+### <div align="center">
+I'm Beril, a computer engineering student 👩‍💻</div>  
   
 
 - 🌱 I’m currently learning FrontEnd Development and Game Development  
