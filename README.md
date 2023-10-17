@@ -5,7 +5,7 @@
 I'm Beril, a computer engineering student 👩‍💻</div>  
   
 
-- 🌱 I’m currently learning FrontEnd Development and Game Development  
+- 🌱 I’m currently learning FrontEnd Development
   
 
 - 🎨 I'm interested about Graphic Design as more than hobby    
