@@ -2,13 +2,14 @@
   
 
 ### <div align="center">
-I'm Beril, a computer engineering student 👩‍💻</div>  
+
+👩‍💻 I'm Beril, a computer engineering graduate 🎓 👩‍💻</div>  
   
 
-- 🌱 I’m currently learning FrontEnd Development
+- 🌱 I’m currently working as a full-stack developer.
   
 
-- 🎨 I'm interested about Graphic Design as more than hobby    
+- 🎨 I’m focusing on advancing my skills in Frontend Development, while also nurturing my interest in Graphic Design beyond just a hobby.
   
 
 <br/>  
